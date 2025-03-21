@@ -1,0 +1,9 @@
+repositories:
+  ./../octomap_msgs:
+    type: git
+    url: https://github.com/OctoMap/octomap_msgs.git
+    version: ros2
+  ./../pcl_msgs:
+    type: git
+    url: https://github.com/ros-perception/pcl_msgs.git
+    version: ros2
